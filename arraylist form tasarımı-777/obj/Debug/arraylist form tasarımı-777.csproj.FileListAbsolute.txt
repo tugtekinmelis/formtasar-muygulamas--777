@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\arraylist form tasarımı-777\arraylist form tasarımı-777\bin\Debug\arraylist form tasarımı-777.exe.config
+C:\Users\User\source\repos\arraylist form tasarımı-777\arraylist form tasarımı-777\bin\Debug\arraylist form tasarımı-777.exe
+C:\Users\User\source\repos\arraylist form tasarımı-777\arraylist form tasarımı-777\bin\Debug\arraylist form tasarımı-777.pdb
+C:\Users\User\source\repos\arraylist form tasarımı-777\arraylist form tasarımı-777\obj\Debug\arraylist form tasarımı-777.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\arraylist form tasarımı-777\arraylist form tasarımı-777\obj\Debug\arraylist form tasarımı-777.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\arraylist form tasarımı-777\arraylist form tasarımı-777\obj\Debug\arraylist_form_tasarımı_777.Form1.resources
+C:\Users\User\source\repos\arraylist form tasarımı-777\arraylist form tasarımı-777\obj\Debug\arraylist_form_tasarımı_777.Properties.Resources.resources
+C:\Users\User\source\repos\arraylist form tasarımı-777\arraylist form tasarımı-777\obj\Debug\arraylist form tasarımı-777.csproj.GenerateResource.cache
+C:\Users\User\source\repos\arraylist form tasarımı-777\arraylist form tasarımı-777\obj\Debug\arraylist form tasarımı-777.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\arraylist form tasarımı-777\arraylist form tasarımı-777\obj\Debug\arraylist form tasarımı-777.exe
+C:\Users\User\source\repos\arraylist form tasarımı-777\arraylist form tasarımı-777\obj\Debug\arraylist form tasarımı-777.pdb
